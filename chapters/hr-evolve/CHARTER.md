@@ -1,35 +1,35 @@
 # HR Evolve — Chapter Charter
 
-> **Status: 🟡 Forming.** This chapter is being chartered as part of the Evolve network launch.
-> Co-leads, venue, and the fixed monthly slot will be confirmed by the chapter community and
-> filled in below — see [GOVERNANCE.md](../../GOVERNANCE.md) for how leads emerge.
+> **Status: 🟣 Graduated.** The first chapter to complete the Evolve incubation model: incubated at FAYA, now a self-funded, non-profit, self-governing community — and the network's proof that graduation works.
 
 ## Identity
 
-- **Chapter name:** HR Evolve
-- **Domain / focus:** People, Talent & the Future of Work — HR leaders, founders, and people-ops practitioners exploring gamification, AI in talent, skills-based hiring, and human-first workplaces.
-- **City / venue:** *to be confirmed by emerging chapter leads*
-- **Chartered on:** *pending first confirmed session*
+- **Chapter name:** HR Evolve (HR Evolve India)
+- **Domain / focus:** People, Talent & the Future of Work — HR leaders and practitioners tracking HR technology, leadership strategy, wellness, inclusion, and what companies in the region are actually doing for their people
+- **City / venue:** Technopark, Trivandrum (regular hall: Park Center, Technopark Phase 1)
+- **Website:** [hrevolve.org](https://hrevolve.org/) · info@hrevolve.org
+- **Running since:** 2024 (see [session archive](./sessions/2024-2026-archive.md))
 
 ## The rhythm (constitutional — see GOVERNANCE.md)
 
-- **Recurring slot:** *to be fixed at charter confirmation — same day every month, forever after*
-- **First session:** *TBA*
+- **Recurring slot:** Every **third Thursday** of the month
+- **Format note:** Sessions typically pair two expert-led talks per evening
 
 ## Leadership
 
-| Role | Name | GitHub | Term ends |
-|---|---|---|---|
-| Co-lead | *open — step up* | @ | |
-| Co-lead | *open — step up* | @ | |
-| Apprentice lead (by month 6) | | @ | |
+Self-governing since graduation — executive council and team run the chapter independently.
 
-**Want to lead this chapter?** Open an issue with the "chapter-lead" label, or come to any Evolve session and say so out loud. Leadership here is earned by showing up.
+| Role | Name | Notes |
+|---|---|---|
+| Executive council | *to be recorded here by the HR Evolve team* | contact via [hrevolve.org](https://hrevolve.org/) |
 
-## Format
+> **TODO for the HR Evolve team:** PR your council roster and term dates into this table — the network record should name the people who run the room.
 
-Inherited FAYA:80 default: 60–90 minutes — one practitioner talk (30–40 min) + protected open-floor time + unhurried hangout after. See the [session playbook](../../playbooks/host-a-session.md).
+## Funding & independence
+
+Non-profit and self-funded, per the network's free-entry rule. Partners collaborate under the sponsors-support-never-steer rule ([GOVERNANCE.md](../../GOVERNANCE.md)).
 
 ## Session log
 
-All sessions are recorded in [`./sessions/`](./sessions/) — one markdown file each, within a week of the session.
+- Incubation & post-graduation archive: [`./sessions/2024-2026-archive.md`](./sessions/2024-2026-archive.md)
+- Ongoing sessions: one file per month in [`./sessions/`](./sessions/), per the [template](../../templates/session-log-template.md)

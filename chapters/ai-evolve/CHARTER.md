@@ -1,14 +1,13 @@
 # AI Evolve — Chapter Charter
 
-> **Status: 🟡 Forming.** This chapter is being chartered as part of the Evolve network launch.
-> Co-leads, venue, and the fixed monthly slot will be confirmed by the chapter community and
-> filled in below — see [GOVERNANCE.md](../../GOVERNANCE.md) for how leads emerge.
+> **Status: 🟢 Incubating.** Running at FAYA, Trivandrum under the [incubation model](../../GOVERNANCE.md).
+> Session details, leads, and the fixed slot are being recorded — leads: PR your facts into this charter.
 
 ## Identity
 
 - **Chapter name:** AI Evolve
 - **Domain / focus:** Artificial Intelligence & Machine Learning — Practitioners and learners building with AI — from model fine-tuning and agents to applied ML in production. The successor domain to FAYA:80's most-covered topic track.
-- **City / venue:** *to be confirmed by emerging chapter leads*
+- **City / venue:** FAYA, Trivandrum (incubation venue)
 - **Chartered on:** *pending first confirmed session*
 
 ## The rhythm (constitutional — see GOVERNANCE.md)

@@ -24,14 +24,25 @@ This document exists because we know exactly how community platforms die. We wat
 5. **Every session is logged.** A session without a log in `chapters/<name>/sessions/` didn't happen, as far as the network is concerned. The log is the chapter's proof of rhythm and the speakers' permanent credit.
 6. **The naive question is protected.** Sessions reserve open floor time. Seniority buys no priority in the queue. This is Floor-of-Madness DNA.
 
-## Chapter lifecycle
+## Chapter lifecycle — the incubation model
+
+Evolve chapters are not franchises; they are **incubated communities**. FAYA acts as the incubator: it hosts, mentors, and carries the operational load for a chapter's first months — then the chapter **graduates** into a self-governing community with its own executive council and team. Graduation is the goal from day one; a chapter that cannot outgrow its incubator hasn't finished forming.
 
 | Status | Meaning | Requirement |
 |---|---|---|
-| ⚪ Proposed | Charter PR open | Charter using the template, 2 co-leads named |
-| 🟡 Forming | Charter merged | First session scheduled with fixed monthly slot |
-| 🟢 Active | Rhythm proven | 3 consecutive monthly sessions logged |
+| ⚪ Proposed | Charter PR open | Charter using the template, lead(s) identified |
+| 🟡 Forming | Charter merged, launch scheduled | First session scheduled with fixed monthly slot |
+| 🟢 Incubating | Rhythm proven, FAYA-hosted | 3 consecutive monthly sessions logged; FAYA provides venue, mentoring, and operational support for the initial **3–6 months** |
+| 🟣 Graduated | Self-governing community | Own **executive council and team** formed and named in the charter; runs its own venue, funding, and program while remaining part of the Evolve network and bound by the constitutional rules |
 | 🔴 Dormant | Rhythm broken | 2 consecutive missed months → reverts to Forming; 6 months dark → archived (never deleted — the record stays) |
+
+**Graduation checklist** (amended into the chapter's charter at graduation):
+- Executive council elected/confirmed in the room, with named roles and term dates
+- Independent venue and funding arrangement (self-funded/non-profit, per the free-entry rule)
+- 6+ consecutive logged sessions
+- Apprentice-lead pipeline in place
+
+The first graduate of this model is **HR Evolve** — incubated at FAYA, now running as a self-funded non-profit community with its own identity at [hrevolve.org](https://hrevolve.org/), while remaining part of the network.
 
 ## Network-level decisions
 

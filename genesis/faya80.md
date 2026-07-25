@@ -43,4 +43,6 @@ Those micro-communities are the **Evolve network** this repository governs: AI E
 - [Twelve Years of Consistent Learning: Inside the Legacy of FAYA:80 — Republic World, July 2025](https://www.republicworld.com/initiatives/twelve-years-of-consistent-learning-inside-the-legacy-of-faya80)
 - [fayaport80.com](https://www.fayaport80.com/) — the original archive of sessions and speakers
 
-> **⚠️ Preservation TODO:** the fayaport80.com archive (session list, speaker gallery) should be exported into this folder as markdown before the site ages further. 224 speakers deserve a permanent, forkable record. Track: issue #1.
+- [Beyond FAYA:80 — the finale record](./beyond-faya80.md), preserved from fayaport80.com/beyond
+
+> **⚠️ Preservation TODO:** the full session list and 224-speaker gallery on fayaport80.com should still be exported into this folder as markdown (the site's SSL certificate has been fixed and the finale page is preserved here, but the complete archive export remains open). Track: [issue #1](https://github.com/deepusnath/Beyond-Gatekeepers/issues/1).

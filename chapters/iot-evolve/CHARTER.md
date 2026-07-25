@@ -1,8 +1,8 @@
 # IoT Evolve — Chapter Charter
 
-> **Status: 🟡 Forming.** This chapter is being chartered as part of the Evolve network launch.
-> Co-leads, venue, and the fixed monthly slot will be confirmed by the chapter community and
-> filled in below — see [GOVERNANCE.md](../../GOVERNANCE.md) for how leads emerge.
+> **Status: ⚪ Proposed.** This chapter is on the network's wishlist and needs a founding lead.
+> Leadership is earned by showing up — see [GOVERNANCE.md](../../GOVERNANCE.md), then open a
+> `chapter-lead` issue or say so out loud at any Evolve session.
 
 ## Identity
 

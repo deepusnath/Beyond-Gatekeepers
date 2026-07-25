@@ -30,17 +30,22 @@ An **Evolve** is a domain-focused community of practice with three non-negotiabl
 2. **An emergent leader, not an appointed one.** Chapters form when a community leader steps up, picks a location, and commits to the rhythm. Leadership is earned by showing up.
 3. **Free and open, forever.** No tickets, no gatekeeping, no pay-to-speak. Sponsors may support; they never steer.
 
+### The incubation model
+
+Evolve runs like a community incubator, not a franchise. **FAYA incubates each new chapter for its first 3–6 months** — venue, mentoring, operational muscle — and then the chapter **graduates** into a self-governing community with its own executive council and team, staying part of the network. HR Evolve is the model's first proof: incubated at FAYA, now self-funded and independent at [hrevolve.org](https://hrevolve.org/). Full lifecycle: [GOVERNANCE.md](./GOVERNANCE.md).
+
 ### Current chapters
 
-| Chapter | Domain | Status | Charter |
-|---|---|---|---|
-| **AI Evolve** | Artificial Intelligence & ML | 🟡 Forming | [charter](./chapters/ai-evolve/CHARTER.md) |
-| **HR Evolve** | People, Talent & Future of Work | 🟡 Forming | [charter](./chapters/hr-evolve/CHARTER.md) |
-| **Quantum Evolve** | Quantum Computing | 🟡 Forming | [charter](./chapters/quantum-evolve/CHARTER.md) |
-| **IoT Evolve** | IoT & Embedded Systems | 🟡 Forming | [charter](./chapters/iot-evolve/CHARTER.md) |
-| **Space Evolve** | Spacetech | 🟡 Forming | [charter](./chapters/space-evolve/CHARTER.md) |
+| Chapter | Domain | Status | Rhythm & place | Charter |
+|---|---|---|---|---|
+| **HR Evolve** | People, Talent & Future of Work | 🟣 Graduated | 3rd Thursday · Technopark, Trivandrum · [hrevolve.org](https://hrevolve.org/) | [charter](./chapters/hr-evolve/CHARTER.md) |
+| **AI Evolve** | Artificial Intelligence & ML | 🟢 Incubating | FAYA, Trivandrum | [charter](./chapters/ai-evolve/CHARTER.md) |
+| **Space Evolve** | Spacetech | 🟡 Forming | Launching Sep 2026 · 1st Saturday · FAYA, Trivandrum · led by Anurag (Hex20) | [charter](./chapters/space-evolve/CHARTER.md) |
+| **Game Evolve** | Game Development & Gaming | 🟡 Forming | Launching Oct 2026 · led by Jobin (Arc) | [charter](./chapters/game-evolve/CHARTER.md) |
+| **Quantum Evolve** | Quantum Computing | ⚪ Proposed | awaiting leads | [charter](./chapters/quantum-evolve/CHARTER.md) |
+| **IoT Evolve** | IoT & Embedded Systems | ⚪ Proposed | awaiting leads | [charter](./chapters/iot-evolve/CHARTER.md) |
 
-> 🟢 Active = 3+ consecutive monthly sessions held · 🟡 Forming = leader identified, first sessions underway · ⚪ Proposed = charter submitted
+> 🟣 Graduated = self-governing, own executive council · 🟢 Incubating = rhythm proven, FAYA-hosted (3–6 months) · 🟡 Forming = leader identified, launch underway · ⚪ Proposed = charter open, needs leads
 
 **Want to start a chapter in your domain or city?** Read the [Chapter Launch Playbook](./playbooks/launch-a-chapter.md) and open a [New Chapter proposal](../../issues/new/choose).
 
