@@ -19,11 +19,11 @@
 
 | Role | Name | GitHub | Term ends |
 |---|---|---|---|
-| Co-lead | *open — step up* | @ | |
+| Chapter lead | **Jyothis Indirabhai** (Co-founder & CEO, [Netrasemi](https://www.netrasemi.com/about)) | | |
 | Co-lead | *open — step up* | @ | |
 | Apprentice lead (by month 6) | | @ | |
 
-**Want to lead this chapter?** Open an issue with the "chapter-lead" label, or come to any Evolve session and say so out loud. Leadership here is earned by showing up.
+Jyothis Indirabhai leads the chapter — 25+ years in microchip design, building edge-AI silicon in Trivandrum, and a FAYA:80 speaker-lineage practitioner. **Want to co-lead?** Open an issue with the "chapter-lead" label, or come to any Evolve session and say so out loud. Leadership here is earned by showing up.
 
 ## Format
 

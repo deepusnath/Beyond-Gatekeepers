@@ -42,7 +42,7 @@ Evolve chapters are not franchises; they are **incubated communities**. FAYA act
 - 6+ consecutive logged sessions
 - Apprentice-lead pipeline in place
 
-The first graduate of this model is **HR Evolve** — incubated at FAYA, now running as a self-funded non-profit community with its own identity at [hrevolve.org](https://hrevolve.org/), while remaining part of the network.
+The first graduate of this model is **HR Evolve** — launched at Evolve India 2023 (FAYA:80's 100th edition) under Deepa Nair's leadership, venue funded by FAYA for the first year, then offered free by Technopark as the community proved itself, now running as a self-funded non-profit with its own identity at [hrevolve.org](https://hrevolve.org/), while remaining part of the network. That arc — incubator funds → institution adopts → community self-sustains — is the graduation path every chapter should expect.
 
 ## Network-level decisions
 

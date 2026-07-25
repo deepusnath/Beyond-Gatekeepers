@@ -18,7 +18,7 @@
 
 | Role | Name | Notes |
 |---|---|---|
-| Chapter lead | **Jobin** (Arc) | Founding lead. From the Arc team behind the first game console launched from India — practitioner leadership, per network rules |
+| Chapter lead | **[Jobin Joseph](https://www.linkedin.com/in/jobin-joseph-1303j)** (Arc) | Founding lead. From the Arc team behind the first game console launched from India — practitioner leadership, per network rules |
 | Co-lead | *open — step up* | |
 | Apprentice lead (by month 6) | *to be named* | |
 

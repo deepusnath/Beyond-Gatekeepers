@@ -18,7 +18,7 @@
 
 | Role | Name | Notes |
 |---|---|---|
-| Chapter lead | **Anurag** (Hex20) | Founding lead. Hex20 is the Trivandrum spacetech company that launched its second satellite on a SpaceX mission — practitioner leadership, per network rules |
+| Chapter lead | **[Anurag Reghu](https://www.linkedin.com/in/anurag-reghu-58445227)** (Hex20) | Founding lead. Hex20 is the Trivandrum spacetech company that launched its second satellite on a SpaceX mission — practitioner leadership, per network rules |
 | Co-lead | *open — step up* | |
 | Apprentice lead (by month 6) | *to be named* | |
 

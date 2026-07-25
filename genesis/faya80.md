@@ -12,13 +12,16 @@
 
 **FAYA:80** (read: *FAYA port 80*) was a monthly technology session hosted by FAYA at Technopark, Thiruvananthapuram — every **first Wednesday** of the month, at the **"Floor of Madness"**, FAYA's space where anyone could walk in and pitch their wildest, most unpolished idea without fear.
 
-It began in June 2013 from a simple conviction: technology professionals in Kerala should never lag behind on what's next. It grew into something bigger — a *ritual*. Developers, founders, students, marketers, and the just-plain-curious showed up month after month, not for certificates, but to belong.
+It was founded on **5 June 2013 as Coffee@DBG** (later renamed FAYA:80 after the DBG–FAYA merger), from a simple conviction: technology professionals in Kerala should never lag behind on what's next — and the root blocker was never talent, but *confidence*. By 2014 NASSCOM had joined the mission; over twelve years the community grew past **10,000 professionals**, organized into interest groups on Community of Practice principles. It became a *ritual*: developers, founders, students, marketers, and the just-plain-curious showing up month after month, not for certificates, but to belong.
 
 Milestones:
 
+- **5 June 2013** — founded as Coffee@DBG; **2014** — NASSCOM joins the mission
 - **July 2017** — 50th edition celebrated with **Disrupt Kerala 2017**, a day-long event with global speakers, launching two sibling chapters: **Kochi** (second Wednesday) and **Kozhikode** (third Wednesday)
 - **2020–2021** — the sessions continued through lockdown without breaking rhythm
-- **June 2025** — the grand finale at Technopark. Not an ending: a deliberate handover.
+- **2023** — **Evolve India 2023: "Preparing for the Unpredictable (AI)"** — the 100th edition and 10th anniversary, dedicated to the HR community. **HR Evolve launched here** (core committee: Deepa Nair, Sumi, Midhun) — the first Evolve chapter, born before the network had a name
+- **2024** — **Transcend India 2024** marks the 11th anniversary: positioning India to ride the AI wave
+- **June 2025** — the grand finale at Technopark ([preserved here](./beyond-faya80.md)). Not an ending: a deliberate handover.
 
 ## What made it work (the DNA every Evolve inherits)
 

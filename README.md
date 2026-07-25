@@ -38,10 +38,10 @@ Evolve runs like a community incubator, not a franchise. **FAYA incubates each n
 
 | Chapter | Domain | Status | Rhythm & place | Charter |
 |---|---|---|---|---|
-| **HR Evolve** | People, Talent & Future of Work | 🟣 Graduated | 3rd Thursday · Technopark, Trivandrum · [hrevolve.org](https://hrevolve.org/) | [charter](./chapters/hr-evolve/CHARTER.md) |
-| **AI Evolve** | Artificial Intelligence & ML | 🟢 Incubating | FAYA, Trivandrum | [charter](./chapters/ai-evolve/CHARTER.md) |
-| **Space Evolve** | Spacetech | 🟡 Forming | Launching Sep 2026 · 1st Saturday · FAYA, Trivandrum · led by Anurag (Hex20) | [charter](./chapters/space-evolve/CHARTER.md) |
-| **Game Evolve** | Game Development & Gaming | 🟡 Forming | Launching Oct 2026 · led by Jobin (Arc) | [charter](./chapters/game-evolve/CHARTER.md) |
+| **HR Evolve** | People, Talent & Future of Work | 🟣 Graduated | 3rd Thursday since 2023 · Technopark, Trivandrum · led by Deepa Nair · [hrevolve.org](https://hrevolve.org/) | [charter](./chapters/hr-evolve/CHARTER.md) |
+| **AI Evolve** | Artificial Intelligence & ML | 🟢 Incubating | FAYA, Trivandrum · led by Jyothis Indirabhai (Netrasemi) | [charter](./chapters/ai-evolve/CHARTER.md) |
+| **Space Evolve** | Spacetech | 🟡 Forming | Launching Sep 2026 · 1st Saturday · FAYA, Trivandrum · led by Anurag Reghu (Hex20) | [charter](./chapters/space-evolve/CHARTER.md) |
+| **Game Evolve** | Game Development & Gaming | 🟡 Forming | Launching Oct 2026 · led by Jobin Joseph (Arc) | [charter](./chapters/game-evolve/CHARTER.md) |
 | **Quantum Evolve** | Quantum Computing | ⚪ Proposed | awaiting leads | [charter](./chapters/quantum-evolve/CHARTER.md) |
 | **IoT Evolve** | IoT & Embedded Systems | ⚪ Proposed | awaiting leads | [charter](./chapters/iot-evolve/CHARTER.md) |
 
