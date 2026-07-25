@@ -78,7 +78,7 @@ The Purple Movement blends the energy of youth (**Red**) with the wisdom of prac
 |---|---|
 | [WikiSyllabus](https://github.com/The-Purple-Movement/WikiSyllabus) | Open repository of university syllabi: the data layer |
 | [Beyond Syllabus](https://github.com/The-Purple-Movement/Beyond-Syllabus) | AI companion to understand your syllabus deeply: the understanding layer |
-| [Beyond Borders](https://github.com/The-Purple-Movement/Beyond-Borders) | Frontier tech mapped to real problems worth building: the direction layer |
+| [Beyond Borders](https://github.com/The-Purple-Movement/Beyond-Borders) | What to build, plus the global network that backs builders to success: the launchpad layer |
 | **Beyond Gatekeepers (this repo)** | The Evolve meetup network: the community layer where it all meets in person |
 
 [μLearn](https://mulearn.org/), 48,000+ learners strong, is the movement's peer-learning backbone and the natural home base for Evolve attendees.
