@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Evolve Pulse Slips (print: A4, 8 slips)</title>
+<style>
+  @page { size: A4; margin: 8mm; }
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, "Noto Sans Malayalam", sans-serif; margin: 0; color: #111; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; }
+  .slip { border: 1px dashed #999; padding: 5mm; height: 69mm; overflow: hidden; }
+  h3 { margin: 0 0 2mm; font-size: 11px; letter-spacing: 0.05em; text-transform: uppercase; color: #6d28d9; }
+  .q { font-size: 10.5px; margin: 1.5mm 0; line-height: 1.35; }
+  .ml { color: #444; font-size: 9.5px; display: block; }
+  .scale { font-size: 10px; letter-spacing: 0.35em; margin-top: 0.5mm; color: #333; }
+  .open { margin-top: 2mm; font-size: 10px; }
+  .line { border-bottom: 1px solid #bbb; height: 5mm; }
+  .foot { font-size: 8px; color: #777; margin-top: 1.5mm; }
+</style>
+</head>
+<body>
+<div class="grid">
+  <!-- slip template x8 -->
+  <script>
+    document.write(Array.from({length: 8}, () => `
+    <div class="slip">
+      <h3>Evolve Pulse · Anonymous · 60 seconds</h3>
+      <div class="q">1. I choose what I engage with here; nobody's script is running me.
+        <span class="ml">ഇവിടെ ഞാൻ എന്തിൽ പങ്കെടുക്കണമെന്ന് ഞാൻ തന്നെയാണ് തീരുമാനിക്കുന്നത്. <em>(draft, pending validation)</em></span>
+        <div class="scale">1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5</div>
+      </div>
+      <div class="q">2. I can point to something I understand or can do better since I started coming. <em>(first session: "I expect to learn things here I couldn't learn alone")</em>
+        <span class="ml">ഇവിടെ വന്നു തുടങ്ങിയതിനു ശേഷം എനിക്ക് കൂടുതൽ മനസ്സിലായതോ ചെയ്യാൻ കഴിയുന്നതോ ആയ ഒന്ന് ചൂണ്ടിക്കാണിക്കാൻ കഴിയും. <em>(draft)</em></span>
+        <div class="scale">1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5</div>
+      </div>
+      <div class="q">3. Someone in this room knows my name and what I'm working on.
+        <span class="ml">ഈ മുറിയിൽ ആരെങ്കിലും എന്റെ പേരും ഞാൻ ചെയ്യുന്ന കാര്യവും അറിയുന്നുണ്ട്. <em>(draft)</em></span>
+        <div class="scale">1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5</div>
+      </div>
+      <div class="open">What question are you taking home tonight? <em>(optional)</em>
+        <div class="line"></div>
+      </div>
+      <div class="foot">First time here? ☐ &nbsp;·&nbsp; No names. Scores become one line in the public session log.</div>
+    </div>`).join(""));
+  </script>
+</div>
+</body>
+</html>

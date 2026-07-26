@@ -2,7 +2,7 @@
 
 *The permanent record of the practitioners who gave their evenings to Kerala's longest-running tech community. Exported from the [fayaport80.com](https://www.fayaport80.com/speakers) speaker gallery on 2026-07-26; roles are as listed at the time of speaking.*
 
-This export preserves **148 speakers** from the main gallery. FAYA:80's full lineage counts 224 speakers across 200+ sessions; speakers featured only on event pages (Disrupt Kerala, Transcend India, Evolve India) and early sessions not in the online gallery still need backfill, tracked in [issue #1](https://github.com/deepusnath/Beyond-Gatekeepers/issues/1).
+This export preserves **177 speakers** from the main gallery and event pages. FAYA:80's full lineage counts 224 speakers across 200+ sessions; speakers featured only on event pages (Disrupt Kerala, Transcend India, Evolve India) and early sessions not in the online gallery still need backfill, tracked in [issue #1](https://github.com/deepusnath/Beyond-Gatekeepers/issues/1).
 
 | Speaker | Role at time of speaking |
 |---|---|
@@ -154,5 +154,40 @@ This export preserves **148 speakers** from the main gallery. FAYA:80's full lin
 | Sreejith Nair | Brand Marketing Communication Leader |
 | Binish Moulana | Head of Platform Enablement APAC, Finastra |
 | Jugal J | Application Security Specialist, EY GDS |
+
+
+## Event-page speakers (Disrupt Kerala 2017 · Evolve India 2023 · Transcend India 2024)
+
+| Speaker | Role at time of speaking | Event |
+|---|---|---|
+| Anubhav Singh | Co-founder - Callchimp.ai | Transcend India 2024 |
+| Ravi Prakash | Chief Technology Officer, Beckn | Transcend India 2024 |
+| Jibu Elias | Mozilla Responsible Computing Fellow | Transcend India 2024 |
+| Prasanth Nair | IAS, Spl Secretary, Agriculture, Govt of Kerala | Transcend India 2024 |
+| Dr Saji Gopinath | Vice Chancellor, Digital University of Kerala | Transcend India 2024 |
+| Dr Jayasankar Prasad | Director, DCSMAT | Transcend India 2024 |
+| Jijo Sunny | Co-Founder & CEO of Buy Me a Coffee | Transcend India 2024 |
+| Joy Sebastian | Co-Founder & CEO, Techgentsia | Transcend India 2024 |
+| Rahul Ramesh | Chief Technology Officer at Entri | Transcend India 2024 |
+| Jofin Joseph | Partner, Pienza VC, Seattle | Transcend India 2024 |
+| Sanjay Vijayakumar | Co-Founder of Pupilfirst | Transcend India 2024 |
+| Dr Athul Manuel | Medical Officer, District Palliative Care Centre, Ernakulam. | Transcend India 2024 |
+| Bodhish Thomas | Co-Founder, Open Healthcare Network | Transcend India 2024 |
+| Mishal Abdullah | Kerala Lead, Beckn Open Collective | Transcend India 2024 |
+| Govind SB | Top 100 Coder, Product EngineerProduct Engineer Hoppscotch | Transcend India 2024 |
+| Ekalevyan S | Top 100 Fellow, Assosicate School Mulearn, Ambitious Builder | Transcend India 2024 |
+| Sujith Unni | Regional Head, Nasscom | Transcend India 2024 |
+| Mr. Michael Gord | Founder & CEO | Disrupt Kerala 2017 |
+| Mr. Venkatramanan P.R | Data Scientist | Disrupt Kerala 2017 |
+| Mr. Satish Babu | Chair, APRALO | Disrupt Kerala 2017 |
+| Mr. Rama Brahmam Aleti | Co-Founder & UX Strategist | Disrupt Kerala 2017 |
+| Mr. Abhilash Ashok | Senior Lead, UX Development | Disrupt Kerala 2017 |
+| Mr. Sanju Mathew | CEO | Disrupt Kerala 2017 |
+| Mr. Anivar Aravind | Founder Executive Director | Disrupt Kerala 2017 |
+| Mr. Mohammed Rafi T.F | Behavioural Scientist, Life... | Disrupt Kerala 2017 |
+| Mr. Manuyash Chaudhary | AI & NLP Developer & Researcher | Disrupt Kerala 2017 |
+| Mr. M Sivasankar IAS | IT Secretary | Disrupt Kerala 2017 |
+| Mr Rahul Alex Panicker | Co-founder and President | Disrupt Kerala 2017 |
+| Mr Aswin P | Program Manager | Disrupt Kerala 2017 |
 
 *Every Evolve chapter inherits this lineage. Speakers: if your listing needs a correction, PR it; this is your record.*
