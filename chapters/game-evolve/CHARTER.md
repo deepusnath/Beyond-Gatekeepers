@@ -1,4 +1,4 @@
-# Game Evolve. Chapter Charter
+# Game Evolve: Chapter Charter
 
 > **Status: 🟡 Forming.** Launching October 2026, incubated at FAYA per the [incubation model](../../GOVERNANCE.md).
 

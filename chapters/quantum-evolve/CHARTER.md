@@ -1,4 +1,4 @@
-# Quantum Evolve. Chapter Charter
+# Quantum Evolve: Chapter Charter
 
 > **Status: ⚪ Proposed.** This chapter is on the network's wishlist and needs a founding lead.
 > Leadership is earned by showing up, see [GOVERNANCE.md](../../GOVERNANCE.md), then open a

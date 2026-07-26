@@ -1,4 +1,4 @@
-# HR Evolve. Chapter Charter
+# HR Evolve: Chapter Charter
 
 > **Status: 🟣 Graduated.** The first chapter to complete the Evolve incubation model: incubated at FAYA, now a self-funded, non-profit, self-governing community, and the network's proof that graduation works.
 

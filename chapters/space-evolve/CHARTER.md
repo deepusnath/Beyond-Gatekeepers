@@ -1,4 +1,4 @@
-# Space Evolve. Chapter Charter
+# Space Evolve: Chapter Charter
 
 > **Status: 🟡 Forming.** Launching September 2026, incubated at FAYA per the [incubation model](../../GOVERNANCE.md).
 

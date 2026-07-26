@@ -1,4 +1,4 @@
-# AI Evolve. Chapter Charter
+# AI Evolve: Chapter Charter
 
 > **Status: 🟢 Incubating.** Running at FAYA, Trivandrum under the [incubation model](../../GOVERNANCE.md).
 > Session details, leads, and the fixed slot are being recorded, leads: PR your facts into this charter.
