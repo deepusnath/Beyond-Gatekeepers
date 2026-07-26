@@ -1,7 +1,7 @@
 ---
 name: New chapter proposal
 about: Propose a new Evolve chapter (domain or city)
-title: "[Chapter] <Domain> Evolve — <City>"
+title: "[Chapter] <Domain> Evolve: <City>"
 labels: chapter-proposal
 ---
 
@@ -9,7 +9,7 @@ labels: chapter-proposal
 
 - **Domain:**
 - **City / likely venue:**
-- **Proposed recurring slot** (same day every month — the one you can defend for 12 months):
+- **Proposed recurring slot** (same day every month, the one you can defend for 12 months):
 
 ## The people
 

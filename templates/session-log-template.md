@@ -1,6 +1,6 @@
-# Session <NN> — <Title>
+# Session <NN>: <Title>
 
-> Copy to `chapters/<chapter>/sessions/<YYYY-MM>-<NN>.md`. Log within one week of the session — a session without a log didn't happen.
+> Copy to `chapters/<chapter>/sessions/<YYYY-MM>-<NN>.md`. Log within one week of the session, a session without a log didn't happen.
 
 - **Date:** <YYYY-MM-DD>
 - **Venue:** <where>
@@ -15,7 +15,7 @@
 
 ## Open floor highlights
 
-<The questions and discussions that mattered — especially the "naive" ones that opened something up.>
+<The questions and discussions that mattered, especially the "naive" ones that opened something up.>
 
 ## Learnings & follow-ups
 
@@ -23,4 +23,4 @@
 
 ## Scribe
 
-<Your name / @github — scribes are contributors, this is your credit line.>
+<Your name / @github, scribes are contributors, this is your credit line.>

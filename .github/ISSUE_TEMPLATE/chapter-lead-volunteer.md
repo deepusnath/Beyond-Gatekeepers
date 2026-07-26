@@ -1,13 +1,13 @@
 ---
 name: Volunteer as chapter lead
 about: Step up to co-lead a Forming chapter
-title: "[Lead] <Chapter name> — <Your name>"
+title: "[Lead] <Chapter name>: <Your name>"
 labels: chapter-lead
 ---
 
 ## Which chapter
 
-<!-- e.g. AI Evolve, Quantum Evolve — see chapters/ for Forming chapters that need leads -->
+<!-- e.g. AI Evolve, Quantum Evolve, see chapters/ for Forming chapters that need leads -->
 
 ## Who you are
 
@@ -17,4 +17,4 @@ labels: chapter-lead
 
 ## The commitment check
 
-Co-leading means the same day, every month, for a 12-month term — and naming an apprentice lead by month 6. Have you read [GOVERNANCE.md](../../GOVERNANCE.md) and the [Launch Playbook](../../playbooks/launch-a-chapter.md)?
+Co-leading means the same day, every month, for a 12-month term, and naming an apprentice lead by month 6. Have you read [GOVERNANCE.md](../../GOVERNANCE.md) and the [Launch Playbook](../../playbooks/launch-a-chapter.md)?
